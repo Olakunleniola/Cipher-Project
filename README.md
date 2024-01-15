@@ -72,6 +72,12 @@ node super-encryptor.js encode
 - The program displays the result to the user.
 
 ## Running the Program
++ Open a local terminal and download the project files
+    
+    ```bash
+    git clone https://github.com/Olakunleniola/Cipher-Project.git
+    ```
+
 - For **message.mixer.js**, run the program with the desired encryption type and, if applicable, the amount:<br><br>
 
     ```bash
